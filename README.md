@@ -2,7 +2,7 @@
 - The program was written just for fun and to use old hardware in conjunction with a TV and gamepad.
 
 # Folders structure
-.
+```.
 ├── Files
 │   └── ...                  # Sound and Font
 ├── Games                    # Emulator ROM's
@@ -13,4 +13,4 @@
     ├── NES                  # ROM's main pictures
     ├── PC                   # ROM's main pictures
     └── SEGA                 # ROM's main pictures
----------------------------------------------------------------------------------
+```
