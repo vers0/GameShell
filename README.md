@@ -1,5 +1,10 @@
 # About.
 - The program was written just for fun and to use old hardware in conjunction with a TV and gamepad.
+- The system must have preinstalled emulators to run ROMs.
+
+# Flaws.
+- The name of the ROM should be the same as the name of the main ROM picture.
+- Names are made up of numbers.
 
 # Folders structure
 ```.
